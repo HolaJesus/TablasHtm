@@ -1,0 +1,95 @@
+/*table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table,
+th,
+td {
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+th,
+td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}*/
+
+.tabla1, .tabla1 th, .tabla1 td{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.tabla2, .tabla2 th, .tabla2 td{
+    border-style: dotted;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.col1 {
+    background-color: #D6EEEE;
+}
+
+.col2 {
+    background-color: pink;
+}
+
+.col3{
+    background-color: aqua;
+}
+.tabla3, .tabla3 th, .tabla3 td {
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    background-color: tomato;
+    color: white;
+}
+.parrafo1{
+        background-color: red;
+        color: #D6EEEE;
+        
+}
+
+.tabla4, .tabla4 th, .tabla4 td{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+    padding: 8px;
+    border:1px solid black;
+    border-collapse: collapse;
+    
+}
+
+.tabla4 tr:nth-child(even)  {
+    background-color: blueviolet;
+    color: #D6EEEE;
+}
+
+#titulo1 {
+background-color:tomato;
+color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+.titulo2{
+    background-color: darkorange;
+    color: black;
+    padding: 10px;
+    text-align: left;
+}
+
+.titulo3{
+    background-color:darksalmon ;
+    
+}
